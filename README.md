@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hg2o" alt="hg2o" /></a> </p>
 
-- 🔭 I’m currently working on [Hivernia](Soon)
+- 🔭 I’m currently working on [Hivernia](https://github.com/HiverniaDev)
 
 - 👯 I’m looking to collaborate on [CentralCorpLauncher](https://github.com/HG2O/CentralCorp-Launcher)
 
